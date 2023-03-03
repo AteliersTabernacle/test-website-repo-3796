@@ -1,6 +1,4 @@
 ---
-title: Accueil
+title: Qui sommes-nous ?
 ---
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+_Les Ateliers Tabernâcle!_ est une association dont le principal objet est de promouvoir la **sérigraphie** et de rendre cette technique d'impression accessible à tous les publics, aux alentours de _Dijon_ et dans le _Finistère_.
