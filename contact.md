@@ -1,6 +1,5 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Pour un premier contact, le plus simple est de nous envoyer un mail à
+tabernacle@poivron.org
